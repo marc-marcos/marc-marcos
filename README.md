@@ -16,9 +16,10 @@ Marc Marcos Madruga
   
 -------------------
   
-![LachlanDev github stats](https://github-readme-stats.vercel.app/api?username=marc-marcos&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![LachlanDev github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marc-marcos)
 
-![LachlanDev github streak](https://github-readme-streak-stats.herokuapp.com/?user=marc-marcos&theme=radical&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=marc-marcos)
 
  <div>
 
