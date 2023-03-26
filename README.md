@@ -6,9 +6,8 @@ Marc Marcos Madruga
 -------------------
 
 ## Contact
-<a href="https://twitter.com/marc_marcos_">![Twitter](https://img.shields.io/badge/marc_marcos-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)</a>
-<a> ![Discord](https://img.shields.io/badge/Marcequi%231583-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) </a>
-
+<a href="mailto:marcmarcosmadruga@gmail.com"> ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/marc-marcos-01510b226/">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 -------------------
 
 ### Languages and Tools  
