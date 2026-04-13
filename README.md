@@ -7,6 +7,6 @@ I'm Marc Marcos, I'm a computer engineering student 👨‍💻 who is passionat
 - 🌱 I’m currently learning computer architecture and tinkering with radio.
 - ⚡ Languages: C, C++, System Verilog, Python and Rust
 
-I am reachable through [email](mailto::marc@marcmarcos.com)
+I am reachable through [email](mailto:marc@marcmarcos.com)
 
 <br>
